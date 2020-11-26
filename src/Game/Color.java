@@ -1,7 +1,7 @@
 package Game;
 
 public enum Color {
-    
+
     Rouge('R'),
     Vert('V'),
     Bleu('B'),
